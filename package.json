@@ -9,8 +9,11 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@types/faker": "^6.6.9",
     "expo": "~47.0.9",
     "expo-status-bar": "~1.4.2",
+    "faker": "^6.6.6",
+    "moti": "^0.21.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
@@ -18,6 +21,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@faker-js/faker": "^7.6.0",
     "@types/react": "~18.0.14",
     "@types/react-native": "~0.70.6",
     "typescript": "^4.6.3"
